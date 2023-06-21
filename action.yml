@@ -14,4 +14,3 @@ runs:
   using: 'node12'
   main: 'dist/main/index.js'
   post: 'dist/post/index.js'
-  post-if: success()
